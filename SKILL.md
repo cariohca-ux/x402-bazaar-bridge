@@ -61,3 +61,8 @@ Requires `WALLET_KEY` in `.env` for signing EIP-3009 USDC permit payments. Never
 - URL validation: only `https://`, blocks localhost/private IPs
 - File permissions: logs and cache files are owner-only (0600)
 - Wallet keys never logged or exposed in output
+
+## Support
+
+Questions? Issues? Want to add your own x402 API to the bridge?
+DM **@btcnodeuk** on X: https://x.com/btcnodeuk
